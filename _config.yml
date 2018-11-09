@@ -2,7 +2,7 @@ safe: true
 markdown: kramdown
 highlighter: pygments
 permalink: /:title.html
-relative_permalinks: https://drl-dql.github.io/
+relative_permalinks: false
 
 default_theme: ribbon
 default_width: 792
